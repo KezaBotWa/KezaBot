@@ -10,7 +10,7 @@
 <a href="#"><img title="👾KezaWaBot👾" src="https://img.shields.io/badge/AR15BOT-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
-<a href="https://github.com/A187ID"><img title="Author" src="https://img.shields.io/badge/AUTHOR-KezaWaBot ID-orange.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/KezaWaBot"><img title="Author" src="https://img.shields.io/badge/AUTHOR-KezaWaBot ID-orange.svg?style=for-the-badge&logo=github"></a>
 </p>
 <p align="center">
 <a href="https://www.codefactor.io/repository/github/A187ID/AR15BOT"><img title="Rating" src="https://www.codefactor.io/repository/github/A187ID/AR15BOT/badge/main"></a>
@@ -97,7 +97,7 @@ Script ini di modifikasi sama saya sendiri Aris187 ID.
 |       ✅       | Pokemon                          |
 |       ✅       | Info                             |
 |       ✅       | Donate                           |
-|       ✅       | 18+.                             |
+|       ❌       | 18+.                             |
 |                   MORE  Fitur                     |
 
 Ket: Aktiv 24 jam
