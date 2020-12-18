@@ -7,10 +7,10 @@
 
 
 <p align="center">
-<a href="#"><img title="👾AR15BOT👾" src="https://img.shields.io/badge/AR15BOT-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="👾KezaWaBot👾" src="https://img.shields.io/badge/AR15BOT-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
-<a href="https://github.com/A187ID"><img title="Author" src="https://img.shields.io/badge/AUTHOR-ARIS187 ID-orange.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/A187ID"><img title="Author" src="https://img.shields.io/badge/AUTHOR-KezaWaBot ID-orange.svg?style=for-the-badge&logo=github"></a>
 </p>
 <p align="center">
 <a href="https://www.codefactor.io/repository/github/A187ID/AR15BOT"><img title="Rating" src="https://www.codefactor.io/repository/github/A187ID/AR15BOT/badge/main"></a>
@@ -103,19 +103,19 @@ Script ini di modifikasi sama saya sendiri Aris187 ID.
 Ket: Aktiv 24 jam
 
 ## DONASI <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/coin.gif" width="29px">
-* [`Donasi 👾AR15BOT👾`](https://saweria.co/aris187id)
+* [`Donasi 👾KezaWaBot👾`]
 
 
 ## SOSIAL MEDIA ADMIN <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/powerup.gif" width="29px">
 
-* [`Youtube Admin`](https://www.youtube.com/channel/UCGYLWtyT9IADYNUiK0uZiGg)
-* [`Instagram Admin`](https://instagram.com/_sadboy.ig)
-* [`WhatsApp Admin `](https://wa.me/+6285722553839)
+* [`Youtube Admin`](Gamer Legends)
+* [`Instagram Admin`](https://www.instagram.com/_calyza/)
+* [`WhatsApp Admin `](https://wa.me/+6285601459079)
 ## THANKS TO <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" width="60px">
 
 * [`fdciabdul`](https://github.com/fdciabdul/termux-whatsapp-bot)
 
-* [`ArugaZ`](https://github.com/ArugaZ/whatsapp-bot)
+* [`Keza`]()
 * [`MhankBarBar`](https://github.com/MhankBarBar/whatsapp-bot)
 * [`Alfbot`](https://github.com/alfiansx/alfbot)
 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Gameplay.gif" alt="Mario Game" width="600" />
