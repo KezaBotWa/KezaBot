@@ -25,10 +25,10 @@ const bulan = arrayBulan[moment().format('MM') - 1]
 
 const config = {
     KWBot: '👾KezaBotWa👾',
-    instagram: 'https://www.instagram.com/_calyza/',
-    nomer: 'wa.me/6285601459079',
+    instagram: 'https://wa.me/6285601459079?text=hallo',
+    nomer: 'Gamer Legends',
     aktif: '24 JAM',
-    youtube: 'Gamer Legends',
+    youtube: 'https://www.instagram.com/_calyza/',
     whatsapp: 'https://wa.me/6285601459079?text=hallo',
     tanggal: `TANGGAL: ${moment().format('DD')} ${bulan} ${moment().format('YYYY')}`,
     waktu: time
@@ -182,11 +182,11 @@ client.on('message-new', async (m) => {
                .then(data => {
                    client.sendMessage(id, '[❗] WAIT BOSQ🖤',MessageType.text)
                    client.sendMessage(id, data ,MessageType.image)
-               })
-               .catch(err => {
-                   console.log(err)
-               })
-           break
+               
+             
+
+              
+         break
        case 'say':
            await client.sendMessage(id, value,MessageType.text)
            break
