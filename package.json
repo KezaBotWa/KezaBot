@@ -1,5 +1,5 @@
 {
-  "name": "AR15BOT",
+  "name": "KezaWaBot",
   "version": "1.0.0",
   "description": "Termux only",
   "main": "index.js",
@@ -35,7 +35,7 @@
   "keywords": [
     "k"
   ],
-  "author": "Abdul Muttaqin",
+  "author": "Calya Kieza",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/A187ID/AR15BOT/issues"
