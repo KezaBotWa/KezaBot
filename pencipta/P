@@ -1,0 +1,5 @@
+exports.pencipta = (id ) => {
+return `
+https://wa.me/6285601459079?text=hallo 
+tuh nyiptain gwa namanya Keza.
+baik pulak orangnya >,<
